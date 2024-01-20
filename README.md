@@ -14,3 +14,4 @@ Console Roguelike
 
 # Разработали
 [ALXSSDR](https://github.com/ALXSSSDR)
+[SIVOKHINsa](https://github.com/SIVOKHINsa)
