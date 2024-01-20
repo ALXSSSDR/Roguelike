@@ -13,4 +13,4 @@ Console Roguelike
 - Можно проходить стэлсом
 
 # Разработали
-@ALXSSSDR
+[ALXSSDR](https://github.com/ALXSSSDR)
